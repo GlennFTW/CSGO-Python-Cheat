@@ -1,5 +1,7 @@
 # CSGO-Python-Cheat
-made a python cheat with HWID protection
+https://github.com/ekknod/scripthial
+
+made a python cheat from scripthial source with HWID protection
 
 Includes HWID protection
 
